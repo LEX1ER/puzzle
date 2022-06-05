@@ -13,7 +13,7 @@ Puzzle.createServer({
 
 Usage
 ```typescript
-// user-controller.ts
+// ./src/controllers/user-controller.ts
 import { Controller } from "../controller";
 import { route } from "../route";
 

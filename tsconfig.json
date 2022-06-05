@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "removeComments": true,
+        "sourceMap": false,
+        "outDir": "dist",
+        "experimentalDecorators": true
+    },
+    "extends": "@tsconfig/recommended/tsconfig.json"
+}
